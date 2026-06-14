@@ -40,3 +40,4 @@ I'm an Operations and Data professional based in Lagos, Nigeria, with 5+ years o
 
 - LinkedIn: https://www.linkedin.com/in/opeyemi-ogunkunle
 - Email: opeyemiogunkunle@outlook.com
+- CV: https://github.com/O-peak/opeyemi-portfolio/raw/main/opeyemi ogunkunle cv.pdf
