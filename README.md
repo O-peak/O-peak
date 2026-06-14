@@ -1,6 +1,6 @@
 # Hi, I'm Opeyemi Ogunkunle 👋
 
-I'm an Operations and Data professional based in Lagos, Nigeria, with 5+ years of experience across FMCG, agro-processing, and oil & gas refinery environments. I enjoy turning messy processes into clean, efficient systems — whether that's through data analysis, production planning, or quality management.
+I'm an Operations and Data professional based in Lagos, Nigeria, with 5+ years of experience across FMCG, agro-processing, and oil & gas refinery environments. I enjoy turning messy processes into clean, efficient systems, whether that's through data analysis, production planning, or quality management.
 
 ---
 
